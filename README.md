@@ -1,0 +1,2 @@
+# hyprconf-v2
+
